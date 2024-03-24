@@ -12,4 +12,6 @@ let person1 = new person("susheel", "Vishwakarma", 22);
 let person2 = new person("vartika", "Bhujbal", 22);
 
 console.log(person1);
+console.log(person1.puraName());
 console.log(person2);
+console.log(person2.puraName());

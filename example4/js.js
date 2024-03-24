@@ -4,5 +4,5 @@ let person1 = {
 
 
 // if we need to check under the object variable is present or not so 
-// we use "hasOwsProperty"
+// we use "hasOwsProperty" got it
 console.log(person1.hasOwnProperty('name'));
